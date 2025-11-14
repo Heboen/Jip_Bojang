@@ -88,10 +88,10 @@
 
 ## 📖 관련 문서 / 링크
 
-- 👉 기획 문서(노션)  https://www.notion.so/90000-2/API-22a0297f45f080f2810dd685a0ef8d67
-- 👉 API 명세  
+- 👉 기획 문서(노션)  
+- 👉 API 명세  https://www.notion.so/90000-2/API-22a0297f45f080f2810dd685a0ef8d67
 - 👉 ERD / 아키텍처 문서  
-- 👉 회의록 및 협업 문서  
+- 👉 회의록 및 협업 문서  https://www.notion.so/90000-2/22a0297f45f0808a953cd747167a43e6
 
 ---
 
